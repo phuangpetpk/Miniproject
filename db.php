@@ -1,9 +1,9 @@
 <?php 
 class DB {
 	
-	protected $db_name = 'it58160170';
-	protected $db_user = 'it58160170';
-	protected $db_pass = 'it58160170';
+	protected $db_name = 'it58160628';
+	protected $db_user = 'it58160628';
+	protected $db_pass = '0850862915mn';
 	protected $db_host = 'localhost';
     public $link;
     public $result;
